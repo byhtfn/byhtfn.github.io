@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://byhtfn.github.io/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/app/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/assets/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/css/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/data/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/includes/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/item/sitemap.html.gz
+Sitemap: https://byhtfn.github.io/src/sitemap.html.gz
